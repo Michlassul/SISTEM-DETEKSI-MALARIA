@@ -8,7 +8,3 @@ Sistem deteksi malaria yang saya buat merupakan sebuah machine learning program 
 * Unduh file data latih dan data test pada folder cell images  
 * Buatlah google collab notebook
 * Ikuti program tersebut
-
-### Disclaimer
-
-Ini adalah salah satu projek yang pertama kali saya buat. Saya tidak menjamin program ini dapat bekerja dengan sempurna dan memiliki kualitas yang tinggi. Silahkan gunakan program ini sesuai keinginan anda, harapan saya program ini dapat memberikan manfaat bagi anda.
